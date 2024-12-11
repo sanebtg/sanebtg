@@ -1,6 +1,6 @@
 [![Header](https://github.com/sanebtg/sanebtg/blob/main/assets/header.gif)](https://www.youtube.com/@sanebtg)
 
-## I'm a beginner YouTuber, Web Developer and Software Engineer
+## I'm a beginner Web Developer and Software Engineer
 
 ### YouTube
 
