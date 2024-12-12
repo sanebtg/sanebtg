@@ -4,7 +4,7 @@
 
 ### YouTube
 
-![YouTube](https://img.shields.io/badge/-YouTube-090909?style-for-the-badge&logo=YouTube&logoColor=FF0000)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style-for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@sanebtg)
 
 ### Languages and Tools
 
